@@ -1,4 +1,3 @@
-# RPi.GPIO-0.7.0
 This package provides a class to control the GPIO on a Raspberry Pi.
 
 Note that this module is unsuitable for real-time or timing critical applications.  This is because you
@@ -13,5 +12,4 @@ This is planned for the near future - watch this space!  One-wire functionality 
 Although hardware PWM is not available yet, software PWM is available to use on all channels.
 
 For examples and documentation, visit http://sourceforge.net/p/raspberry-gpio-python/wiki/Home/
-
 
